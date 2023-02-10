@@ -1,7 +1,7 @@
 ### Olá, eu sou a Nayara 
 
 - Pronomes: ela/dela
-- Estudando: <img align="center" alt="Js" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+- Estudando: <img align="center" alt="study" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 <div align="center">
   <a href="https://github.com/NayaraNasaria">
