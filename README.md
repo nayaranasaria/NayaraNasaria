@@ -1,7 +1,7 @@
 ### Olá, eu sou a Nayara 
 
 - Pronomes: ela/dela
-- Estudando:  <img align="center" alt="study" height="22" width="70" src="https://user-images.githubusercontent.com/85569222/218598068-dff3b774-2f0a-4a71-b823-72412df8dc24.png">  <img align="center" alt="PHP" height="40" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
+- Estudando:  <img align="center" alt="study" height="20" width="70" src="https://user-images.githubusercontent.com/85569222/218598068-dff3b774-2f0a-4a71-b823-72412df8dc24.png">  <img align="center" alt="PHP" height="40" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
 
 <div align="center">
   <a href="https://github.com/NayaraNasaria">
