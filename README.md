@@ -11,11 +11,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Node" height="auto" width="70" src="https://user-images.githubusercontent.com/85569222/218597645-5c340056-21c5-4650-9dbb-df7fac055b67.png">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://www.php.net/images/logos/new-php-logo.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="right" alt="simpsons" height="150" style="border-radius:50px;" src="https://media3.giphy.com/media/s6EYTqTRqujIY/200w.gif?cid=6c09b952qmkjh6lahnhjwpabm5j5zkv6s9ld0nzsowj38c63&rid=200w.gif&ct=g">
